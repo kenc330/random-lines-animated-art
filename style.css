@@ -1,0 +1,18 @@
+body {
+    background-color: lightgray;
+    margin: 0px;
+    min-height: 100vh;
+    display: grid;
+  }
+  
+  canvas {
+    max-width: 500px;
+    height: auto;
+    justify-self: center;
+    align-self: center;
+    border: solid black 1px;
+    background-color: whitesmoke;
+    box-shadow: 3px 3px 5px black;
+    border-radius: 10px;
+  }
+  
